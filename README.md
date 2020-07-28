@@ -30,15 +30,6 @@ To Run:
 python play.py
 ```
 
-## In-Game Snapshots
-<p align="center"><img src = "https://user-images.githubusercontent.com/37273226/79742539-95954000-8320-11ea-8b79-bff883454617.PNG"/></p>
-<br>Making Predictions In the Game :<br>
-<p align="center"><img src = "https://user-images.githubusercontent.com/37273226/79742699-dbea9f00-8320-11ea-87fb-3ba3f8a9a760.PNG"/></p>
-<br>Bot Playing and Score Updates<br>
-<p align="center"><img src = "https://user-images.githubusercontent.com/37273226/79742843-148a7880-8321-11ea-838a-0d361a39f436.PNG"/></p>
-<br>Final Outcome<br>
-<p align="center"><img src = "https://user-images.githubusercontent.com/37273226/79742889-2c61fc80-8321-11ea-99ef-b55fbff4911c.PNG"/></p>
-
 ## Requirements
 - tensorflow
 - keras
